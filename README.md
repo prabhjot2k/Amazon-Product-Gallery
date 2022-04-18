@@ -35,6 +35,9 @@ This application is used to create and store database of products, just like Ama
 7. Add the required products using categories and sellers.
 8. Perform the required CRUD operations.
 9. Also, you can simplify the process of searching across multiple products by putting required filters at `127.0.0.1:8000/products-filter/`.
+
+
+
  
  
  
