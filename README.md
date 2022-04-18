@@ -7,8 +7,8 @@ This application is used to create and store database of products, just like Ama
 ## Requirements
 
 * [Python 3+](https://www.python.org/download/releases/3.0/?) - Python 3.6+ verion
-* [Django](https://github.com/SeleniumHQ/selenium) - Django for backend
-* [Django REST Framework](https://github.com/SeleniumHQ/selenium) - Django REST Framework for REST APIs
+* [Django](https://www.djangoproject.com/) - Django for backend
+* [Django REST Framework](https://www.django-rest-framework.org/) - Django REST Framework for REST APIs
 
 ## Steps to Run
 1. Go to AmazonGallery folder.
